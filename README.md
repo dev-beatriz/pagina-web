@@ -13,4 +13,4 @@ HTML
 
 ## Consideração
 Fiquei satisfeita em como o curso foi apresentado, utilizando uma linguagem simples que qualquer pessoa poderá entender.
-Aprendi a usar tags que fazem com que o usuário navegue de maneira mais rápida e simples pela página, possibilitando com um clique, ele ir até a informação desejada. O que torna mais fácil a vida de qualquer pessoa, não fazendo que ele fique rolando pela página até encontar o que procura.
+Aprendi a usar tags que fazem com que o usuário navegue de maneira mais rápida e simples pela página, possibilitando com um clique, ele ir até a informação desejada. O que torna mais fácil a vida de qualquer pessoa, não fazendo com que ele fique rolando pela página até encontrar o que procura.
