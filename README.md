@@ -1,4 +1,4 @@
-<p><center>Página Web</p>
+# Página Web
 
  <img alt="Imagem que mostra como ficou o projeto final." src=".github/preview.png" width="100%">
 
