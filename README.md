@@ -1,5 +1,4 @@
-# Trilha HTML - Dio.me
-## Primeiro projeto - Página Web
+<p><center>Página Web</p>
 
  <img alt="Imagem que mostra como ficou o projeto final." src=".github/preview.png" width="100%">
 
